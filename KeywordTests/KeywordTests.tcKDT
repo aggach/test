@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="Dane_do_sprawy" key="{E3EB0C78-910D-433C-B55D-C4A381C02036}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Dane_do_sprawy.tcKDTest" />
+		</child>
+		<child name="Zajecie_1_i_2" key="{185679D6-21CB-4DD1-8953-7D43D18264E1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_1_i_2.tcKDTest" />
+		</child>
+		<child name="Zajecie_3_i_4" key="{4103FC39-0422-4A7E-AE5E-D8F75BB110AF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_3_i_4.tcKDTest" />
+		</child>
+		<child name="Zajecie_5_i_6" key="{669EE9D7-6397-4324-AE2E-162CF4672D2E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_5_i_6.tcKDTest" />
+		</child>
+		<child name="Zajecia_bez_wysylki" key="{5474560F-70B5-4732-BFFD-D13EB67925DF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecia_bez_wysylki.tcKDTest" />
+		</child>
+		<child name="Zajecie_7_i_8" key="{7F934824-9C92-45E7-8ACC-F7E6B80A9B38}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_7_i_8.tcKDTest" />
+		</child>
+		<child name="Zajecie_11_i_12" key="{4A6A12E1-7039-4E3A-B61D-5244384F71A1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_11_i_12.tcKDTest" />
+		</child>
+		<child name="Zajecie_13_i_14" key="{872FA017-0434-4053-A0A2-B87E1BEF2867}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_13_i_14.tcKDTest" />
+		</child>
+		<child name="Zajecie_15_i_16" key="{80379B1E-5EB4-40AA-8957-5E118904F3C3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_15_i_16.tcKDTest" />
+		</child>
+		<child name="Zajecie_17" key="{84CAABB3-FE16-46AD-B7FA-B0E2EE143971}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_17.tcKDTest" />
+		</child>
+		<child name="Zajecie_20_22_23" key="{74A62EB9-5D12-4108-A921-AB39C148A594}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_20_22_23.tcKDTest" />
+		</child>
+		<child name="Dane_do_zap" key="{9517D258-7B49-4012-9E72-5615A386DE43}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Dane_do_zap.tcKDTest" />
+		</child>
+		<child name="Zajecia_9_i_10" key="{837DEC31-D60F-46B7-96C0-6C5806A4F466}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecia_9_i_10.tcKDTest" />
+		</child>
+		<child name="Zajecie_18" key="{BBB7201E-5E8F-4307-8774-FB3D5F349A9A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Zajecie_18.tcKDTest" />
+		</child>
+		<child name="Test2" key="{BFE1C8C0-6C02-4BDF-83F4-90F17FC58EB3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Test2.tcKDTest" />
+		</child>
+	</children>
+	<folders>
+		<folder caption="E-zajecia" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{E3EB0C78-910D-433C-B55D-C4A381C02036}" />
+				<ref key="{185679D6-21CB-4DD1-8953-7D43D18264E1}" />
+				<ref key="{4103FC39-0422-4A7E-AE5E-D8F75BB110AF}" />
+				<ref key="{669EE9D7-6397-4324-AE2E-162CF4672D2E}" />
+				<ref key="{5474560F-70B5-4732-BFFD-D13EB67925DF}" />
+				<ref key="{7F934824-9C92-45E7-8ACC-F7E6B80A9B38}" />
+				<ref key="{4A6A12E1-7039-4E3A-B61D-5244384F71A1}" />
+				<ref key="{872FA017-0434-4053-A0A2-B87E1BEF2867}" />
+				<ref key="{80379B1E-5EB4-40AA-8957-5E118904F3C3}" />
+				<ref key="{84CAABB3-FE16-46AD-B7FA-B0E2EE143971}" />
+				<ref key="{74A62EB9-5D12-4108-A921-AB39C148A594}" />
+				<ref key="{837DEC31-D60F-46B7-96C0-6C5806A4F466}" />
+				<ref key="{BBB7201E-5E8F-4307-8774-FB3D5F349A9A}" />
+			</references>
+		</folder>
+		<folder caption="E-zapytania" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{9517D258-7B49-4012-9E72-5615A386DE43}" />
+			</references>
+		</folder>
+	</folders>
+</Root>

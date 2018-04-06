@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{BFE1C8C0-6C02-4BDF-83F4-90F17FC58EB3}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="43196.2653125" objectName="Aliases.explorer.wndShell_TrayWnd.ReBarWindow32.MSTaskSwWClass.MSTaskListWClass" objectLeft="108" objectTop="0" objectRight="1112" objectBottom="30" clickPointX="602" clickPointY="26" imageFileName="tcvi21620171894160.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43196.2653587963" objectName="Aliases.notepad.wndNotepad.Edit" objectLeft="8" objectTop="51" objectRight="742" objectBottom="612" clickPointX="-1" clickPointY="-119" imageFileName="tcvi21620543797805.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

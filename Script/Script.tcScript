@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{E0A69D22-54E8-4ADE-AE95-476D83D26FD0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit1.py" />
+		</child>
+		<child name="Unit2" key="{F763B0D2-07B4-40AB-9FA0-565A6630D2CE}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Unit2.py" />
+		</child>
+	</children>
+	<folders />
+</Root>
