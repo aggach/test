@@ -7,3 +7,4 @@
 def GeneralEvents_OnLogError(Sender, LogParams):
   Sys.Process("notepad").Terminate()
   pass
+#opis testowy
